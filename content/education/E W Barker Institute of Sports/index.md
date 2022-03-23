@@ -1,5 +1,5 @@
 ---
-date: '2020-07-30'
+date: '2020-07-31'
 title: ''
 company: 'E W Barker Institute of Sports'
 range: 'Feb 2016 - Jan 2017'
