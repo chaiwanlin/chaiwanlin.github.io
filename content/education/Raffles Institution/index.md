@@ -1,8 +1,8 @@
 ---
-date: '2020-07-31'
+date: '2016-01-02'
 title: ''
 company: 'Raffles Institution'
-range: 'Jan 2016 2020 - Dec 2017'
+range: 'Jan 2016 - Dec 2017'
 degree: 'Singapore-Cambridge General Certificate of Education Advanced Level (GCE A-Level)'
 url: 'http://www.ri.edu.sg/'
 ---
