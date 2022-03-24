@@ -7,8 +7,10 @@ skills:
   - C
   - SQL
   - Django
+  - Keras
+  - TensorFlow
 ---
-Growing up, **science and technology** has always intrigued me. The idea and **beauty** behind solutions designed by humans to solve our problems. 
+Growing up, **science and technology** has always intrigued me. The idea and **beauty** behind solutions designed by humans to solve our problems **fascinates** me. 
 
 To quote Teddy Roosevelt: 
 
