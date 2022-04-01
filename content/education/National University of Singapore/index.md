@@ -1,5 +1,5 @@
 ---
-date: '2020-07-32'
+date: '2020-08-01'
 title: ''
 company: 'National University of Singapore'
 range: 'Aug 2020 - Present'

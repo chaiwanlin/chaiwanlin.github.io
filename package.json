@@ -3,6 +3,7 @@
   "description": "Personal Website V2",
   "version": "1.0.0",
   "author": "Wan Lin Chai <chaiwanlin@u.nus.edu>",
+  "homepage": "https://chaiwanlin.github.io",
   "repository": {
     "type": "git",
     "url": "https://github.com/chaiwanlin/chaiwanlin.github.io"
